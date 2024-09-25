@@ -101,6 +101,10 @@ curl -X POST http://localhost:8080/books -H "Content-Type: application/json" -d 
 ```bash
 curl http://localhost:8080/books
 ```
+### Fetching All Books (GET) with Postman
+```bash
+http://localhost:8080/books
+```
 
 ## Contribution and Collaboration
 I am open to contributions and collaboration to enhance this project. If you're interested, feel free to fork the repository, create pull requests, or submit issues. You can also reach out via email for further discussions.
