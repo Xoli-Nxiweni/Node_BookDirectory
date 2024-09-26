@@ -113,5 +113,5 @@ I am open to contributions and collaboration to enhance this project. If you're 
 For inquiries or support, reach out to **xolinxiweni@gmail.com**.
 
 ## Repository
-- **GitHub**: [Node Book Directory](https://github.com/Xoli-Nxiweni/Node_BookDirectory.git)
 ```
+https://github.com/Xoli-Nxiweni/Node_BookDirectory.git
