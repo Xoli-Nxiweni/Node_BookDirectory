@@ -1,6 +1,3 @@
-
----
-
 ## Node Book Directory
 
 ### Overview
@@ -149,6 +146,5 @@ For inquiries or support, reach out to **xolinxiweni@gmail.com**.
 ### Repository
 ```
 https://github.com/Xoli-Nxiweni/Node_BookDirectory.git
-```
 
 ---
